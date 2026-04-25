@@ -36,9 +36,9 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 flex items-center justify-between h-14">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 text-lg font-bold text-blue-700 shrink-0">
-          Wallet
+          My Lbp Wallet
         </Link>
-
+        
         {/* Desktop nav */}
         <div className="hidden md:flex items-center gap-6">
           {navLinks}
