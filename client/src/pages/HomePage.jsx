@@ -19,7 +19,7 @@ export default function HomePage() {
               </h1>
 
               <p className="mt-5 max-w-2xl text-base leading-7 text-slate-600 sm:text-lg">
-                Track expenses, manage budgets, and view your account balances
+                Track mn,  budgets, and view your account balances
                 in one simple app.
               </p>
 
